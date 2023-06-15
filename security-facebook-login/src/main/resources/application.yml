@@ -1,8 +1,8 @@
 security:
   oauth2:
     client:
-      client-id: 561808189472626
-      client-secret: a400887cb8f47647b9ccf6abeceb43f6
+      client-id:
+      client-secret:
 
       access-token-uri: https://www.facebook.com/oauth/access_token
 #      access-token-uri: https://github.com/login/oauth/access_token
